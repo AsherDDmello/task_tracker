@@ -1,0 +1,5 @@
+# Task Tracker Requirements
+# Python 3.7+ is recommended
+
+# For Web UI version - requires:
+streamlit>=1.28.0
